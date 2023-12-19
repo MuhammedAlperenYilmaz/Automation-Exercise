@@ -26,8 +26,8 @@ The following test scenarios are performed in this project:
 
 ### 1. Login Test
 
-- Scenario:** User logs in.
-- Steps:**
+ - Scenario: User logs in.
+- Steps:
   1. The page opens.
   2. Enter the e-mail address.
   3. Tab key is pressed
@@ -36,15 +36,15 @@ The following test scenarios are performed in this project:
 
 ### 2. Test to prevent clicks on adverts
 
-- Scenario:** User displays a specific advertisement.
-- Steps:**
+ - Scenario: User displays a specific advertisement.
+ - Steps:**
   1. Open the page.
   2. Scroll down until the link to be clicked is at the top of the page.
 
 ### 3. Product Purchase Test
 
-- Scenario:** The user adds a specific product to the basket and buys it.
-- Steps:**
+- Scenario: The user adds a specific product to the basket and buys it.
+- Steps:
   1. Page opens.
   2. Enter the quantity for the selected product.
   2. the selected product is added to the basket.
@@ -52,8 +52,8 @@ The following test scenarios are performed in this project:
 
 ### 4. Entering Payment Information
 
-- Scenario:** User enters payment information and makes payment.
-- Steps:**
+- Scenario: User enters payment information and makes payment.
+- Steps:
   1. The page opens.
   2. Enter payment information. (Switch between forms by pressing the Tab Key)
   3. Payment is made.
