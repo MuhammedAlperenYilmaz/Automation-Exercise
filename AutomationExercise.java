@@ -4,8 +4,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
 import java.time.Duration;
-public class BeforeRefactor2 {
-    public static   void Actions (WebDriver driver, String xpath, String  ...keysToSend) {
+public class AutomationExercise {
+    public static void Actions (WebDriver driver, String xpath, String  ...keysToSend) {
         try {
             Actions actions = new Actions(driver);
             WebElement inputElement = driver.findElement(By.xpath(xpath));
